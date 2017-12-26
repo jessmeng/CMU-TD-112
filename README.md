@@ -1,4 +1,5 @@
 # CMU Tower Defense 112
+
 # Overview
 CMU Tower Defense (TD) 112 is a Carnegie Mellon version of the popular game: Bloons Tower Defense (TD) 5. This game is designed as a typical tower defense game with Scottie Dogs as towers and various universities as the Bloons. The goal of the game is to prevent Bloons from successfully getting through the map. This is done by strategically placing Scottie Dogs to shoot and pop the Bloons. There are five different levels of Bloons, with each level popping to its previous level. Every time a Bloon goes through the map, the user loses a life (or lives depending on the level of the Bloon). There are a total of twenty levels in this game. 
 
